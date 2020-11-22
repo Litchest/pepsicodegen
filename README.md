@@ -1,4 +1,10 @@
 # pepsicodegen
+
+
+USAGE: 
+npm start
+
+
 Pepsi kod üreticisi
 
  PASSWORD: 123
